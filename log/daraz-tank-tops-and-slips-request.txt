@@ -1,0 +1,11 @@
+GET https://www.daraz.com.bd/tank-tops-and-slips/?page=81
+
+User-Agent: Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.1; zh-cn) Opera 8.65
+Referer: https://www.daraz.com.bd/tank-tops-and-slips/?page=80
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en
+Accept-Encoding: gzip, deflate, br
+Cookie: JSESSIONID=7FC714B07C7E1D1492B3696B089DC469
+
+Cookies:
+JSESSIONID=7FC714B07C7E1D1492B3696B089DC469

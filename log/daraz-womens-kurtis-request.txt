@@ -1,0 +1,11 @@
+GET https://www.daraz.com.bd/womens-kurtis/?page=99
+
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.19577
+Referer: https://www.daraz.com.bd/womens-kurtis/?page=98
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en
+Accept-Encoding: gzip, deflate, br
+Cookie: JSESSIONID=2B53F4B210F3BA8565CA1C63A1F7868E
+
+Cookies:
+JSESSIONID=2B53F4B210F3BA8565CA1C63A1F7868E

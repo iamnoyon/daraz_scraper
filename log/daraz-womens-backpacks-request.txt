@@ -1,0 +1,11 @@
+GET https://www.daraz.com.bd/womens-backpacks/?page=78
+
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/530.5 (KHTML, like Gecko) Chrome/2.0.173.0 Safari/530.5
+Referer: https://www.daraz.com.bd/womens-backpacks/?page=77
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en
+Accept-Encoding: gzip, deflate, br
+Cookie: JSESSIONID=551E52FA81AC780B027511973CA64093
+
+Cookies:
+JSESSIONID=551E52FA81AC780B027511973CA64093

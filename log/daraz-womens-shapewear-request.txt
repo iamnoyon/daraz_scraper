@@ -1,0 +1,11 @@
+GET https://www.daraz.com.bd/womens-shapewear/?page=88
+
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246
+Referer: https://www.daraz.com.bd/womens-shapewear/?page=87
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en
+Accept-Encoding: gzip, deflate, br
+Cookie: JSESSIONID=F12D95D58961B3D18B74E0F2FB0340EF
+
+Cookies:
+JSESSIONID=F12D95D58961B3D18B74E0F2FB0340EF

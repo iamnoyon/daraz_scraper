@@ -1,0 +1,16 @@
+URL: https://www.daraz.com.bd/
+
+Date: gzip, deflate, br
+Content-Type: gzip, deflate, br
+Vary: gzip, deflate, br
+X-Server-Id: gzip, deflate, br
+Realpath: gzip, deflate, br
+Cache-Control: gzip, deflate, br
+Etag: gzip, deflate, br
+X-Readtime: gzip, deflate, br
+Via: gzip, deflate, br
+X-Cache: gzip, deflate, br
+Server: gzip, deflate, br
+Eagleeye-Traceid: gzip, deflate, br
+Strict-Transport-Security: gzip, deflate, br
+Timing-Allow-Origin: gzip, deflate, br

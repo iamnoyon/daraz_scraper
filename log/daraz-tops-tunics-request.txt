@@ -1,0 +1,11 @@
+GET https://www.daraz.com.bd/tops-tunics/?page=58
+
+User-Agent: Mozilla/5.0 (Windows 2000; U) Opera 6.02  [en]
+Referer: https://www.daraz.com.bd/tops-tunics/?page=57
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en
+Accept-Encoding: gzip, deflate, br
+Cookie: JSESSIONID=166F78DFCFBAA24629EAE8267EE91483
+
+Cookies:
+JSESSIONID=166F78DFCFBAA24629EAE8267EE91483

@@ -1,0 +1,11 @@
+GET https://www.daraz.com.bd/robes-and-bodysuits/?page=72
+
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; de-DE) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/7.0.540.0 Safari/534.10
+Referer: https://www.daraz.com.bd/robes-and-bodysuits/?page=71
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en
+Accept-Encoding: gzip, deflate, br
+Cookie: JSESSIONID=D6BB6BA811A88F7C6A3F2D8C419C53C7
+
+Cookies:
+JSESSIONID=D6BB6BA811A88F7C6A3F2D8C419C53C7
